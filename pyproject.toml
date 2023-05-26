@@ -1,0 +1,22 @@
+[project]
+name = "binary_system"
+version = "0.0.1"
+authors = [
+  { name="Francisco Griman", email="grihardware@gmail.com" },
+]
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+keywords = [
+    "sistema binario",
+    "binary",
+    "code"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/fcoagz/code-binary-system'"
+"Bug Tracker" = "https://github.com/fcoagz/code-binary-system/issues"
